@@ -5,12 +5,12 @@
 <span style="font-size:20px;"> **Dataset Original Disponibilizado por :**👨‍🏫 André Perez ([Linked In](https://www.linkedin.com/in/andremarcosperez/)) em [Fonte](https://github.com/andre-marcos-perez/ebac-course-utils)<br>
 <span style="font-size:20px;"> **Dataset Tratado* por :**👩‍🏫 Mariane Barros Neiva ([Linked In](https://www.linkedin.com/in/mariane-neiva/)) <br>
 
-* Dataset foi tratado pela tutora com intenção de diminuir custos de computação na nuvem sem perder o valor didático.
+* Dataset foi tratado pela tutora com intenção de diminuir custos de computação na nuvem sem perder o valor didático.<br>
 
-Ferramentas:
-Visualização/Gráficos: Microsoft Excel e Python Seaborn
-Consulta Banco de Dados: AWS Athena
-Serviso de Armazenamento em Nuvem: AWS S3
+Ferramentas:<br>
+Visualização/Gráficos: Microsoft Excel e Python Seaborn <br>
+Consulta Banco de Dados: AWS Athena <br>
+Serviso de Armazenamento em Nuvem: AWS S3 <br>
 
-Projeto completo no Kaggle:
+Projeto completo no Kaggle:<br>
 https://www.kaggle.com/code/sergiomurilloalmeida/eda-e-analise-de-cr-dito-sergio-souza
